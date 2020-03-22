@@ -1,5 +1,5 @@
 {
-  "name": "spotonlive/laravel-google-ads",
+  "name": "moshe-autoleadstar/laravel-google-ads",
   "type": "library",
   "description": "Google Ads API for Laravel",
   "minimum-stability": "dev",
