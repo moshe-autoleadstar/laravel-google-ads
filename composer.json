@@ -22,6 +22,8 @@
   "require": {
     "php": ">=5.5.9",
     "ext-soap": "*",
+    "illuminate/console": ">=5.1",
+    "illuminate/support": ">=5.1",
     "googleads/googleads-php-lib": "^44.0"
   },
   "require-dev": {
